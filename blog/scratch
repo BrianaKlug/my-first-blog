@@ -1,0 +1,2 @@
+git remote add origin https://github.com/BrianaKlug/my-first-blog.git
+git remote set-url origin https://github.com/BrianaKlug/my-first-blog.git
